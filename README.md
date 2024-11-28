@@ -1,4 +1,8 @@
+*ESP32-C3, SEN55, SGP30, INA219, Urageuxy WS0214, SD Card and Micro-USB Modules
+
 *Documentations at Doc folder
+
+*Acknowledgements- Lance Atienza, Edrick Gador, Nathan Galang
 
 ## Setup
 
