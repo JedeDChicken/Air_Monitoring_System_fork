@@ -1,4 +1,6 @@
-*ESP32-C3, SEN55, SGP30, INA219, Urageuxy WS0214, SD Card and Micro-USB Modules
+*Hardware- ESP32-C3, SEN55, SGP30, INA219, Urageuxy WS0214, SD Card and Micro-USB Modules
+
+*Software- painlessMesh library, PlatformIO, UP CARE database and MQTT protocol
 
 *Documentations at Doc folder
 
